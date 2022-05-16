@@ -42,7 +42,7 @@ body {
 
 .card {
   background-color: var(--White);
-  padding: 1rem;
+  padding: 1.2rem;
   border-radius: 1.125rem;
   max-width: 320px;
   box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
